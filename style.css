@@ -1,0 +1,30 @@
+/* Selector de etiqueeta
+
+Vamos a seleccionar el elemento por su nombre y va a cambiar a todos los que se llamen igual*/
+
+body {
+    background-color: rgb(176, 226, 147);
+}
+
+h1 {
+    color: darkgreen;
+}
+/* Selector de clase
+Nosotros vamos a elegir un selector de clase y se las vamos a poner a las etiquetas por medio del atributo class=nombre-clase */
+
+.mascota {
+    border: solid
+}
+.texto-1 {
+    text-align: center;
+}
+
+/* Selector de ID 
+Me ayudara a editar un elemento a la vez, es para cuendo solo queremos hacer cambios a un elemento
+va a cambiar la etiqueta con el atributo. y vamos a llamar al elemento por el operador numeral
+#nombre-id
+*/
+
+
+
+
